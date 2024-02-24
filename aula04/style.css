@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  color: white;
+  font: normal 1.5rem Arial;
+}
+h1 {
+  color: tomato;
+}
+body {
+  background-color: #111111;
+}

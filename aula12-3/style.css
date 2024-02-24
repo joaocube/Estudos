@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font: normal 1.2rem Arial;
+  background-color: #9b9b9b;
+}
+input {
+  border: none;
+  padding: 10px;
+  margin: 10px 0;
+}
